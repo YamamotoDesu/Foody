@@ -8,4 +8,5 @@ Skillshare: https://www.skillshare.com/classes/Modern-Food-Recipes-App-Android-D
 
 ![alt text](https://i.postimg.cc/6pt0GT54/Thumbnail-1.png)
 
-1. [Navtigation Setup](https://github.com/YamamotoDesu/Foody/commit/f4d65aae13f95dfba192c24cd496913c9f4a5742)
+
+## 1. [Navtigation Setup](https://github.com/YamamotoDesu/Foody/commit/f4d65aae13f95dfba192c24cd496913c9f4a5742)
