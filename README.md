@@ -9,6 +9,7 @@ Skillshare: https://www.skillshare.com/classes/Modern-Food-Recipes-App-Android-D
 ![alt text](https://i.postimg.cc/6pt0GT54/Thumbnail-1.png)
 
 
-## 1. [Navtigation Setup](https://github.com/YamamotoDesu/Foody/commit/f4d65aae13f95dfba192c24cd496913c9f4a5742)
+## part 1.Navtigation Setup 
 
-## 2. [Shimmer Effect Setup](https://github.com/YamamotoDesu/Foody/commit/f4d65aae13f95dfba192c24cd496913c9f4a5742)
+## part 2. Shimmer Effect Setup
+![2022-05-29 18 10 14](https://user-images.githubusercontent.com/47273077/170860746-b170fe96-7de5-4142-bc28-fc040806aa03.gif)
