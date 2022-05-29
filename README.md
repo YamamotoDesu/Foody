@@ -12,4 +12,4 @@ Skillshare: https://www.skillshare.com/classes/Modern-Food-Recipes-App-Android-D
 ## part 1.Navtigation Setup 
 
 ## part 2. Shimmer Effect Setup
-![2022-05-29 18 10 14](https://user-images.githubusercontent.com/47273077/170860746-b170fe96-7de5-4142-bc28-fc040806aa03.gif)
+<img width="300" src="https://user-images.githubusercontent.com/47273077/170860746-b170fe96-7de5-4142-bc28-fc040806aa03.gif">
