@@ -6,7 +6,9 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.165" />
         <entry key="app/src/main/res/layout/fragment_favorite_recipes.xml" value="0.13647830474268416" />
         <entry key="app/src/main/res/layout/fragment_food_joke.xml" value="0.13647830474268416" />
-        <entry key="app/src/main/res/layout/fragment_recipes.xml" value="0.13647830474268416" />
+        <entry key="app/src/main/res/layout/fragment_recipes.xml" value="0.10182488020314347" />
+        <entry key="app/src/main/res/layout/placeholder_row_layout.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/receipes_row_layout.xml" value="0.41889418226139996" />
         <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.18518518518518517" />
       </map>
     </option>
